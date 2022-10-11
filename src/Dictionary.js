@@ -22,7 +22,7 @@ export default function Dictionary() {
   }
   return (
     <div className="Dictionary">
-      <form on Submit={search}>
+      <form onSubmit={search}>
         <input
           type="search"
           placeholder="Enter a word"
