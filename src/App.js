@@ -10,8 +10,12 @@ function App() {
       </header>
       <Dictionary />
       <footer>
-        Coded by Bernice Scicluna. Open source code on{" "}
-        <a href="https://github.com/berscic/dictionary-search" rel="noreferrer">
+        Coded by Bernice Scicluna - Open source code available on{" "}
+        <a
+          href="https://github.com/berscic/dictionary-search"
+          target="_blank"
+          rel="noreferrer"
+        >
           GitHub
         </a>
       </footer>

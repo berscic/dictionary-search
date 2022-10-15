@@ -16,3 +16,15 @@ body {
   display: block;
   margin: 0 auto;
 }
+
+footer {
+  text-align: center;
+  margin: 40px;
+  font-size: 12px;
+  font-family: monospace;
+  opacity: 0.7;
+}
+
+footer a {
+  color: black;
+}
