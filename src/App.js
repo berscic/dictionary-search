@@ -17,6 +17,14 @@ function App() {
           rel="noreferrer"
         >
           GitHub
+        </a>{" "}
+        - Hosted on{" "}
+        <a
+          href="https://inspiring-kringle-c2e950.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Netlify
         </a>
       </footer>
     </div>
