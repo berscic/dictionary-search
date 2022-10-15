@@ -11,7 +11,7 @@ function App() {
       <Dictionary />
       <footer>
         Coded by Bernice Scicluna. Open source code on{" "}
-        <a href="#" rel="noreferrer">
+        <a href="https://github.com/berscic/dictionary-search" rel="noreferrer">
           GitHub
         </a>
       </footer>
