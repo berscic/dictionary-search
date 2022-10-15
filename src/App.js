@@ -9,6 +9,12 @@ function App() {
         <img src={logo} className="App-logo img-fluid" alt="logo" />
       </header>
       <Dictionary />
+      <footer>
+        Coded by Bernice Scicluna. Open source code on{" "}
+        <a href="#" rel="noreferrer">
+          GitHub
+        </a>
+      </footer>
     </div>
   );
 }
